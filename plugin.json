@@ -1,0 +1,7 @@
+{
+  "id": "com.audioblaze.githuboled",
+  "name": "GitHub Dark OLED",
+  "main": "main.js",
+  "version": "1.0.0",
+  "minVersionCode": 292
+}
